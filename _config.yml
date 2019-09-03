@@ -1,10 +1,10 @@
 # Site settings
-title: "" # the name of your site, e.g. ACME Corp.
+title: "jekyll-blog-bootstrap4" # the name of your site, e.g. ACME Corp.
 email:
 author:
 description:
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-blog-bootstrap4" # the subpath of your site, e.g. /blog
 
 # Build settings
-permalink: :title/
+#permalink: :title/
