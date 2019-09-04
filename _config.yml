@@ -1,10 +1,15 @@
 # Site settings
 title: "jekyll-blog-bootstrap4" # the name of your site, e.g. ACME Corp.
-email:
+email: chrek@ymail.com
 author:
-description:
+description: Jekyll and Bootstap with Sass
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/jekyll-blog-bootstrap4" # the subpath of your site, e.g. /blog
 
 # Build settings
 #permalink: :title/
+
+# Social icons
+show_social_icons: true
+github_username: chrek
+#twitter_username: someTwitterUser
