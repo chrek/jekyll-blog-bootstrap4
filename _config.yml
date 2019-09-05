@@ -4,7 +4,7 @@ email: chrek@ymail.com
 author:
 description: Jekyll and Bootstap with Sass
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/jekyll-blog-bootstrap4" # the subpath of your site, e.g. /blog
+baseurl: /jekyll-blog-bootstrap4 # the subpath of your site, e.g. /blog
 
 # Build settings
 #permalink: :title/
@@ -13,3 +13,8 @@ baseurl: "/jekyll-blog-bootstrap4" # the subpath of your site, e.g. /blog
 show_social_icons: true
 github_username: chrek
 #twitter_username: someTwitterUser
+
+# plugins
+plugins: [jekyll-paginate]
+paginate: 3
+paginate_path: "/page:num/"
