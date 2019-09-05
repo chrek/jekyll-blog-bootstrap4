@@ -23,9 +23,14 @@ From the root of project run the commands:
 1. `make build`
 2. `make serve`
 
+The site is using a Gemfile, so command like jekyll serve with bundle exec prefixed is appropriate:
+
+`bundle exec jekyll serve`
+
 <hr>
 
 ## References
 
 1. [simpleit.rocks](https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/).
-2. [jekyllrb] (https://jekyllrb.com/docs/pagination/)
+
+2. [jekyllrb](https://jekyllrb.com/docs/pagination/)
