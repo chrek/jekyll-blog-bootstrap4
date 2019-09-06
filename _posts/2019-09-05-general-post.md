@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fourth Post
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
+title: General Post
+summary: Dolore est incididunt qui officia. Qui mollit ullamco consectetur pariatur adipisicing nostrud nulla qui mollit.
 ---
 
 ## Lorem

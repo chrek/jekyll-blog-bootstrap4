@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Fourth Post
-summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
+title: Excellent Post
+summary: Nulla et dolor non magna cillum commodo officia ut minim.
 ---
 
 ## Lorem
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolore.
+Nulla et dolor non magna cillum commodo officia ut minim.
 
 ## More Lorem
 Nulla et dolor non magna cillum commodo officia ut minim. Aliqua aute voluptate exercitation ipsum id nulla culpa. Excepteur occaecat consectetur duis culpa sit non eiusmod sint anim mollit tempor nulla elit.
