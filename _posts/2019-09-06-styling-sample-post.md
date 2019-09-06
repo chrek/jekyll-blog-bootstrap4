@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A styling sample post of HTML elements
+title: styling sample post
 summary: We'll use this post to work out what we need to do to style an individual post
 ---
 # Heading 1
