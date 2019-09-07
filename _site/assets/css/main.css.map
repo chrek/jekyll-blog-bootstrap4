@@ -98,7 +98,7 @@
 		"_sass/css/custom/includes/_posts.scss",
 		"_sass/css/custom/includes/_pagination.scss",
 		"_sass/css/custom/includes/_post.scss",
-		"_sass/css/_solarized-dark.css",
+		"_sass/css/_solarized-dark.scss",
 		"_sass/css/custom/includes/_archive.scss"
 	],
 	"sourcesContent": [
